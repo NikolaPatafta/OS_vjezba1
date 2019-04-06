@@ -1,0 +1,15 @@
+$Recycle.Bin
+$WINDOWS.~BT
+AMD
+Boot
+Config.Msi
+ESD
+Games
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+System Volume Information
+Users
+Windows
